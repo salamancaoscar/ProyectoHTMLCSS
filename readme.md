@@ -1,4 +1,1 @@
-instalar estas dependencias:
-bootstrap
-jqary
-es6
+esta es una modificacion nueva en local para adaptarse al remoto
